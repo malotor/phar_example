@@ -1,0 +1,17 @@
+{
+    "name": "malotor/cliph",
+    "require": {
+        "symfony/console": "~2.6"
+    },
+    "authors": [
+        {
+            "name": "Manel López",
+            "email": "malotor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "malotor\\": "src/"
+        }
+    }
+}
